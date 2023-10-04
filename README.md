@@ -1,3 +1,9 @@
+# ai7x 
+
+[ai7x/build-astro-blog/](https://ai7x.github.io/build-astro-blog/)
+
+---------------------------------
+
 # Astro Starter Kit: Minimal
 
 ```sh
