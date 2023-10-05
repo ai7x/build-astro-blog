@@ -1,7 +1,7 @@
 ---
-import '../styles/global.css';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
+import "../styles/global.css";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
 
 const pageTitle = "Astro";
 ---
@@ -18,5 +18,14 @@ const pageTitle = "Astro";
 		<Header />
 		<h1>{pageTitle}</h1>
 		<Footer />
+		<script>
+			document
+				.querySelector(".hamburger")
+				.addEventListener("click", () => {
+					document
+						.querySelector(".nav-links")
+						.classList.toggle("expanded");
+				});
+		</script>
 	</body>
 </html>
