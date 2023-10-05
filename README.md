@@ -2,6 +2,16 @@
 
 [ai7x/build-astro-blog/](https://ai7x.github.io/build-astro-blog/)
 
+# Tutorial:
+
+- [0-introduction](https://docs.astro.build/en/tutorial/0-introduction/)
+- [1-setup](https://docs.astro.build/en/tutorial/1-setup/)
+- [2-pages](https://docs.astro.build/en/tutorial/2-pages/)
+- [3-components](https://docs.astro.build/en/tutorial/3-components/)
+- [4-layouts](https://docs.astro.build/en/tutorial/4-layouts/)
+- [5-astro-api](https://docs.astro.build/en/tutorial/5-astro-api/)
+- [6-islands](https://docs.astro.build/en/tutorial/6-islands/)
+
 ---------------------------------
 
 # Astro Starter Kit: Minimal
